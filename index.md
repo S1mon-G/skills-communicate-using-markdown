@@ -15,6 +15,11 @@ var myVar = "hello, world";
 <H1 class="header-title">Château l'Amour</H1>
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 
 
 
@@ -22,3 +27,4 @@ var myVar = "hello, world";
 i added three headers to the index file to test markdown
 i added an image
 i added code blocks
+i added a tasklist
