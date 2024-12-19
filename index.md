@@ -12,7 +12,7 @@ var myVar = "hello, world";
 ```
 
 ```html
-<H1 class="header-title">Château l'Amour</H1>
+<H1 class="header-title">Discovering The Git</H1>
 ```
 
 - [ ] Turn on GitHub Pages
