@@ -1,7 +1,7 @@
 # H1
 ## H2
 ### H6
-##### ![Image of universetocat](https://octodex.github.com/universetocat/)
+##### ![Image of universetocat](https://octodex.github.com/images/universetocat.png)
 
 ```$ git init
 initialized empty git repository
